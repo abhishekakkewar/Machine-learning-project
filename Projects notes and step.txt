@@ -9,3 +9,5 @@ Agenda:
 setup.py -> to build complete poject as python package -> and upload to Pypi-> anyone can use it as a package
 
 2. Src folder and build the package
+
+Module 01 : Data Ingestion = reading data from database, other file location etc

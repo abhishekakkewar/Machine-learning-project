@@ -24,3 +24,6 @@
    #creating requirement.txt and setup.py file
    12. pip install -r requirements.txt
    13. git add .
+   14. git status
+   15. git commit -m "setup and requirement"
+   16. git push -u origin main
