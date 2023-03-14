@@ -1,0 +1,11 @@
+Day 01
+
+Agenda:
+1- Set up the github {Repository}
+   a) new environment
+   b) mini project structure (setup.py)
+   c) requirement.txt
+
+setup.py -> to build complete poject as python package -> and upload to Pypi-> anyone can use it as a package
+
+2. Src folder and build the package
